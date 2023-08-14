@@ -52,7 +52,9 @@ impl PoP {
     }
 
 
-
+    pub fn withdraw_funds(&self, owner: AccountId, amount: Balance) {
+        Promise::new(owner).transfer(amount);
+    }
 }
 
 
