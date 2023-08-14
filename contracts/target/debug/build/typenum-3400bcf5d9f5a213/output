@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/asante/hackathons/NEARBUILD/near-art-pop/contracts/target/debug/build/typenum-3400bcf5d9f5a213/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/asante/hackathons/NEARBUILD/near-art-pop/contracts/target/debug/build/typenum-3400bcf5d9f5a213/out/op.rs
