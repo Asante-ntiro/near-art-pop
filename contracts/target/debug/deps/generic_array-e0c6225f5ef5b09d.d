@@ -1,0 +1,11 @@
+/home/asante/hackathons/NEARBUILD/near-art-pop/contracts/target/debug/deps/generic_array-e0c6225f5ef5b09d.rmeta: /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/lib.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/hex.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/impls.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/arr.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/functional.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/iter.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/sequence.rs
+
+/home/asante/hackathons/NEARBUILD/near-art-pop/contracts/target/debug/deps/generic_array-e0c6225f5ef5b09d.d: /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/lib.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/hex.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/impls.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/arr.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/functional.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/iter.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/sequence.rs
+
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/lib.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/hex.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/impls.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/arr.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/functional.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/iter.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.5/src/sequence.rs:

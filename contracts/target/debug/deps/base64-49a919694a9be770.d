@@ -1,0 +1,12 @@
+/home/asante/hackathons/NEARBUILD/near-art-pop/contracts/target/debug/deps/base64-49a919694a9be770.rmeta: /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/lib.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/chunked_encoder.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/display.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/tables.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/mod.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/encoder.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/encode.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/decode.rs
+
+/home/asante/hackathons/NEARBUILD/near-art-pop/contracts/target/debug/deps/base64-49a919694a9be770.d: /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/lib.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/chunked_encoder.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/display.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/tables.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/mod.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/encoder.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/encode.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/decode.rs
+
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/lib.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/chunked_encoder.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/display.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/tables.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/mod.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/write/encoder.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/encode.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base64-0.11.0/src/decode.rs:

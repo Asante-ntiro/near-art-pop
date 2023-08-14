@@ -1,0 +1,12 @@
+/home/asante/hackathons/NEARBUILD/near-art-pop/contracts/target/debug/deps/semver-af645738401a3156.rmeta: /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/lib.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/backport.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/display.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/error.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/eval.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/identifier.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/impls.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/parse.rs
+
+/home/asante/hackathons/NEARBUILD/near-art-pop/contracts/target/debug/deps/semver-af645738401a3156.d: /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/lib.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/backport.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/display.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/error.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/eval.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/identifier.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/impls.rs /home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/parse.rs
+
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/lib.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/backport.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/display.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/error.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/eval.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/identifier.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/impls.rs:
+/home/asante/.cargo/registry/src/index.crates.io-6f17d22bba15001f/semver-1.0.9/src/parse.rs:

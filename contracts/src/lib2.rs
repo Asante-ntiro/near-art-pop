@@ -40,6 +40,11 @@ impl PoP {
         self.token_ids +=1;
 
     }
+
+
+    pub fn token_uri(&self, token_id: u64) -> Option<String> {
+        self.histories.get(&token_id).map(|history| history.ipfs_hash)
+    }
 }
 
 
