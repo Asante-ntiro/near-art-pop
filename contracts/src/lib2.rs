@@ -45,6 +45,14 @@ impl PoP {
     pub fn token_uri(&self, token_id: u64) -> Option<String> {
         self.histories.get(&token_id).map(|history| history.ipfs_hash)
     }
+
+
+    pub fn token_signature(&self, token_id: u64) -> Option<Vec<u8>> {
+        self.histories.get(&token_id).map(|history| history.signature)
+    }
+
+
+
 }
 
 
