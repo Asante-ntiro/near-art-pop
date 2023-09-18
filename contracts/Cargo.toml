@@ -1,8 +1,8 @@
 [package]
-name = "non-fungible-token"
+name = "Proof-Of-Prompt"
 version = "1.1.0"
-authors = ["Near Inc <hello@near.org>"]
-edition = "2018"
+authors = ["AsanteNtiro"]
+edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
@@ -10,3 +10,13 @@ crate-type = ["cdylib", "rlib"]
 [dependencies]
 near-sdk = "4.0.0"
 near-contract-standards = "4.0.0"
+
+[profile.release]
+codegen-units = 1
+# Tells `rustc` to optimize for small code size.
+opt-level = "z"
+lto = true
+debug = false
+panic = "abort"
+# Opt into extra safety checks on arithmetic operations
+overflow-checks = true
